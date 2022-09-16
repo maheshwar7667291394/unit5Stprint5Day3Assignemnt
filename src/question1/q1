@@ -1,0 +1,4 @@
+Q1/ What is the difference between a synchronized method and a synchronized block?
+
+Syncronous method ->it lock the thread on object level and out put come one by one thred 
+while ever syncronous block it block the thred for particular line of code and it is faster than syncronous method.

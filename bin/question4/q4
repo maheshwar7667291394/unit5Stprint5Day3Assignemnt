@@ -1,0 +1,6 @@
+Q4/- What is a Race condition, How will you solve the Race condition,explain with an
+Example.
+
+if multiple thread execute same method on symultaneously then thre will race condition occure and  and race condition 
+leads to data inconsistanncy .race condtion is removed by using syncronize keyword which will block the one thread while 
+another thread completing there task.

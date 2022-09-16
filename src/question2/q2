@@ -1,0 +1,10 @@
+Q2/- What’s the difference between class lock and object lock?
+
+
+calss lock block the thred on class level that menas you want to run two object of same class
+
+then  one object wait out side the static method until another object completing there task.
+that measn both object can not access symultaneously.
+
+
+object level lock it block the thread on object level that means two object aceess the run method sumultaneously
